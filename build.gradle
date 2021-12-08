@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    maven { url("https://dev.geogebra.org/maven2/") }
+    mavenCentral()
+    maven { url('https://repo.vertispan.com/gwt-snapshot') }
+}
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+dependencies {
+    compile 'org.gwtproject.resources:gwt-resources-api:HEAD-SNAPSHOT'
+    annotationProcessor 'org.gwtproject.resources:gwt-resources-processor:HEAD-SNAPSHOT'
+}

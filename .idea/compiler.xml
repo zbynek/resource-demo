@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.resources/gwt-resources-processor/HEAD-SNAPSHOT/241c151b682cc423da86075c6555e5b276a7095b/gwt-resources-processor-HEAD-SNAPSHOT.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.resources/gwt-resources-api/HEAD-SNAPSHOT/609149069977170de41b0fe084d47f8e707fc688/gwt-resources-api-HEAD-SNAPSHOT.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.11/345a7dc983e11c123c8000a53383cc2b83848caf/auto-common-0.11.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.7/4d7d6dc210f80d0bff18645cc534a0c45324d0d6/commons-text-1.7.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20180813/8566b2b0391d9d4479ea225645c6ed47ef17fe41/json-20180813.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.w3c.css/sac/1.3/cdb2dcb4e22b83d6b32b93095f644c3462739e82/sac-1.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.closure-stylesheets/closure-stylesheets/1.5.0/d2b1c0dcba2ac4e13f28721f89134f7333fed2c/closure-stylesheets-1.5.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.9/122c7cee69b53ed4a7681c03d4ee4c0e2765da5/commons-lang3-3.9.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.javascript/closure-compiler-unshaded/v20160713/7df7b683e16c93f65361a15356283599ba012c78/closure-compiler-unshaded-v20160713.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/29.0-jre/801142b4c3d0f0770dd29abea50906cacfddd447/guava-29.0-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.dom/gwt-dom/1.0.0-RC1/a7bfbf5dc5b7cdac8396a5c0790b5d589c901207/gwt-dom-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.core/gwt-core/1.0.0-RC1/e7ba1b8064865a830139cbd1a02649bd24da07b5/gwt-core-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.safehtml/gwt-safecss/1.0.0-RC1/17e61486dab79f882f9410c8c76eb0a287eb4e00/gwt-safecss-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.safehtml/gwt-safehtml/1.0.0-RC1/398b8fe43ecbe56b0e139427d6229e105fbe34d2/gwt-safehtml-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.regexp/gwt-regexp/1.0.0-RC1/e2d89943c7d46a006417d9618dca0ee4ba9a040d/gwt-regexp-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.i18n/gwt-cldr/1.0-SNAPSHOT/d2dc229c92227611333ed0f31e2615509fe2d972/gwt-cldr-1.0-SNAPSHOT.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.i18n/gwt-cldr/1.0-SNAPSHOT/209b6a5ddee58e906c823e67b78bed63e44bb63b/gwt-cldr-1.0-SNAPSHOT-sources.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.http/gwt-http/1.0.0-RC2/eab40918bf5d675ceefde452659e0e79519835a6/gwt-http-1.0.0-RC2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.callback/gwt-callback/1.0.0-RC1/c0b60fde4a86018685e04d15c8444e9397b9da2a/gwt-callback-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/args4j/args4j/2.0.26/1ebb18ebb3b379a74207d5af4ea7c8338ebd78b/args4j-2.0.26.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easymock/easymock/3.0/f28a4c31c330f95c9acbf1108cea19952b5c496f/easymock-3.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.elemental2/elemental2-dom/1.1.0/286d14516f79f56f8c073f4314d22dd0add7b86e/elemental2-dom-1.1.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.elemental2/elemental2-core/1.1.0/93cc9f1022283e7ec6385bec034a2c9bc63d2eab/elemental2-core-1.1.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gwtproject.dom/gwt-dom-style-definitions/1.0.0-RC1/61440edc429600e74c73530727a338827aa7539b/gwt-dom-style-definitions-1.0.0-RC1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.elemental2/elemental2-promise/1.1.0/543d2394c81a60df8ce9d3a4cf4d03ac57d5755a/elemental2-promise-1.1.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsinterop/base/1.0.0/5d2a5cda3092004832cb67cfe7a100a2ef8411f8/base-1.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.11.1/8c43bf8f99b841d23aadda6044329dad9b63c185/checker-qual-2.11.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.4/dac170e4594de319655ffb62f41cbd6dbb5e601e/error_prone_annotations-2.3.4.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib-nodep/2.2/59afed7ab65e7ec6585d5bc60556c3cbd203532b/cglib-nodep-2.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.javacc/javacc/4.1/915805643a5651cfe0e2db40c689c6dc211db97d/javacc-4.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.javascript/closure-compiler-externs/v20160713/36c8fa2e53148f8f00070d1d5df6e065bd9ebfb3/closure-compiler-externs-v20160713.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/a10732c76bfacdbd633a7eb0f7968b1059a65dfa/protobuf-java-2.5.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jsinterop/jsinterop-annotations/2.0.0/e98331cc593d02044aa78638ca511c0f03364a03/jsinterop-annotations-2.0.0.jar" />
+        </processorPath>
+        <module name="resource-demo.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
